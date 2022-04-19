@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm MARTIN</h1>
 <h3 align="center">A passionate FullStack Web/Mobile developer from France</h3>
+<h4>Now becoming full-stack developper</h4>
+<h4>Also Mechanical Engineer</h4>
+- 🌱 I’m currently learning **Frameworks, Backends + Frontends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/martin carvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin carvi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
